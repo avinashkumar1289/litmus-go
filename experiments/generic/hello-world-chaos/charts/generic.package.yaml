@@ -1,0 +1,5 @@
+packageName: generic
+experiments:
+  - name: hello-world-chaos
+    CSV: hello-world-chaos.chartserviceversion.yaml
+    desc: "hello-world-chaos"
